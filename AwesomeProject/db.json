@@ -1,0 +1,21 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Nisa Amelia",
+      "nim": "21/483034/SV/20055",
+      "kelas": "B",
+      "icon": "https://res.cloudinary.com/dk0z4ums3/image/upload/w_100,h_100,c_fill/v1677487430/attached_image/penatalaksanaan-askariasis-anak-usia-bawah-6-tahun.jpg",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "Nisa A",
+      "nim": "21/567890/TK/12345",
+      "kelas": "C",
+      "jeniskelamin": "perempuan",
+      "color": "#AFB83B",
+      "icon": "barcode",
+      "id": 3
+    }
+  ]
+}

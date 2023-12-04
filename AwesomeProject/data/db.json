@@ -1,0 +1,20 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Nisa Amelia",
+      "nim": "21/483034/SV/20055",
+      "kelas": "B",
+      "icon": "atom",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "Amelia",
+      "nim": "21/478120/SV/21234",
+      "kelas": "B",
+      "icon": "user",
+      "color": "#00FF00",
+      "id": 2
+    }
+  ]
+}
